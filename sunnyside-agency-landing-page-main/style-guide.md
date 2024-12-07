@@ -38,6 +38,7 @@ The designs were created to the following widths:
 - Font size: 18px
 
 ### Font
+style="background-image: url('/sunnyside-agency-landing-page-main/images/desktop/image-header.jpg');width: 100%; height: 600px; background-size: cover; background-position: center; "
 
 - Family: [Barlow](https://fonts.google.com/specimen/Barlow)
 - Weights: 600
